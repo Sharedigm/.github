@@ -1,5 +1,5 @@
 <p align="center" style="text-align:center">
-	<img src="images/logos/logo.svg" width="200">
+	<img src="../images/logos/logo.svg" width="200">
 </p>
 
 # Sharedigm
