@@ -8,7 +8,7 @@ Sharedigm is a cloud platform that can be used to share data, ideas, and media. 
 
 ## Features
 
-The Sharedigm OS can be used as a cloud operating system to manage and share your files or to build cloud based platforms for a wide variety of purposes. 
+Sharedigm can be used to manage and share your files or to build your own customized cloud based platforms for a wide variety of purposes. 
 
 - Hostable it yourself!
 - Enjoy the easy and intuitive user interface.
@@ -18,7 +18,7 @@ The Sharedigm OS can be used as a cloud operating system to manage and share you
 
 ## Benefits
 
-By installing the appropriate apps, you can use the Sharedigm platform for a wide variety of purposes:
+Use the Sharedigm platform to:
 
 - Regain control over your own data.
 - Share your files, images, music, and ideas.
