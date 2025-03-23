@@ -10,7 +10,7 @@ Sharedigm is a cloud platform that can be used to share data, ideas, and media. 
 
 Sharedigm can be used to manage and share your files or to build your own customized cloud based platforms for a wide variety of purposes. 
 
-- Hostable it yourself!
+- Host it yourself!
 - Enjoy the easy and intuitive user interface.
 - View photos and videos.
 - Listen to audio and podcasts.
