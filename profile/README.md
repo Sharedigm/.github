@@ -8,13 +8,13 @@ Sharedigm is a cloud platform that can be used to share data, ideas, and media. 
 
 ## Features
 
-Sharedigm can be used to manage and share your files or to build your own customized cloud based platforms for a wide variety of purposes. 
+Sharedigm includes the following key features:
 
-- Host it yourself!
-- Enjoy the easy and intuitive user interface.
-- View photos and videos.
-- Listen to audio and podcasts.
-- Engage in public discussions or private chats.
+- Self-hostable!
+- Includes an easy and intuitive user interface.
+- Integrates data management and viewing with social and communications features.
+- Easily customizable with your own branding and color scheme.
+- Configurable by easily installing or uninstalling apps.
 
 ## Benefits
 
