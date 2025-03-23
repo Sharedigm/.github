@@ -34,7 +34,7 @@ If you have some basic web hosting skills, then you can use Sharedigm to deploy 
 
 The Sharedigm platform includes a range of apps for most common data sharing applications.  If you are just getting started with Sharedigm or just want to deploy a data sharing platform rather than to build your own custom platform, we recommend that you start with this platform.
 
-### 2. [RocketKitty](https://github.com/Sharedigm/RocketKitties)
+### 2. [RocketKitty](https://github.com/RocketKitties)
 
 If just want to deploy a version of the Sharedigm platform as easily as possible with a minimum of customization or configuration, we also provide a family of pre-configured platforms build on top of the Sharedigm platform but customized for particular tasks.
 
