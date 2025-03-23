@@ -44,7 +44,7 @@ If you are a developer, then you can use the Sharedigm OS to build your own cust
 - Build your own platform by customizing the set of installed apps, configuration, branding, and theme to match your own needs.
 - If you have coding skills, you can create new apps for the platform to suit your specific needs. 
 
-### 1. [Sharedigm OS](https://github.com/Sharedigm/SharedigmOS))
+### 1. [Sharedigm OS](https://github.com/Sharedigm/SharedigmOS)
 
 The Sharedigm OS is the base operating system that the Sharedigm platform is built upon.  The Sharedigm OS is provided with a minimum of apps installed so you can build your own platform by installing additional apps from the Sharedigm App Store or by creating your own apps.
 
